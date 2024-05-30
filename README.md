@@ -1,1 +1,1 @@
-Projects to comprehense and implement deep learning techniques for medical images.
+Implementing deep learning techniques for medical image classification, segmentation and feature extraction.
